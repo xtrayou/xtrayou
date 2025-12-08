@@ -19,10 +19,8 @@ html,css,php,laravel,vue,bootstrap,git,docker,github,graphql,nodejs,express,mysq
 - [dashboard-stable](https://github.com/xtrayou/dashboard-stable) - A dashboard template for data visualization. **Stars:** 0 | **Language:** Blade
 
 ## GitHub Stats
+https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=dark&background=22232e&border=22232e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&card_width=320&hide_border=true
 
-📊 **Public Repositories:** 12
-👥 **Followers:** 1
-👤 **Following:** 4
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtrayou&show_icons=true&theme=radical)
 
@@ -41,3 +39,4 @@ Currently, I don't have any blog posts. However, I plan to share my learning jou
 ## Connect with Me
 
 {}
+
