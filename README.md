@@ -8,7 +8,7 @@ I'm currently using GitHub as a second account for study purposes. I focus on de
 
 ## Skills & Technologies
 
-php,html,css,bootstrap,laravel,vue,docker,github,git,mysql,gitlab
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,bootstrap,laravel,vue,docker,github,git,mysql,gitlab&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
@@ -29,12 +29,12 @@ php,html,css,bootstrap,laravel,vue,docker,github,git,mysql,gitlab
   ⭐ 1 Stars | Language: JavaScript | Forks: 0 | Issues: 0
 
 ## GitHub Stats
-
 📊 **Public Repositories:** 13  
 👥 **Followers:** 1  
 👣 **Following:** 4  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtrayou&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtrayou&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -44,11 +44,3 @@ php,html,css,bootstrap,laravel,vue,docker,github,git,mysql,gitlab
 - Started watching [monitoring-domain](https://github.com/xtrayou/monitoring-domain)  
 - Started watching [dashboard-stable](https://github.com/xtrayou/dashboard-stable)  
 - Recently pushed to [silmiyushini](https://github.com/xtrayou/silmiyushini)
-
-## Latest Blog Posts
-
-No blog posts available at the moment.
-
-## Connect with Me
-
-{}
