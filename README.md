@@ -10,24 +10,6 @@ I'm currently using GitHub as a second account for study purposes. I focus on de
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,bootstrap,laravel,vue,docker,github,git,mysql,gitlab&perline=8)](https://skillicons.dev)
 
-## Top Projects
-
-- [dashboard.diskominfo.purwakarta.kab](https://github.com/xtrayou/dashboard.diskominfo.purwakarta.kab) 
-  A dashboard project for the Purwakarta Information and Communication Office. 
-  ⭐ 1 Stars | Language: Blade | Forks: 0 | Issues: 0
-
-- [puskesmaskota.purwakartakab.go.id](https://github.com/xtrayou/puskesmaskota.purwakartakab.go.id) 
-  A health service portal for Purwakarta. 
-  ⭐ 1 Stars | Language: PHP | Forks: 0 | Issues: 0
-
-- [monitoring-domain](https://github.com/xtrayou/monitoring-domain) 
-  Internship project focused on domain monitoring. 
-  ⭐ 1 Stars | Language: JavaScript | Forks: 0 | Issues: 0
-
-- [cctv.purwakartakab.go.id](https://github.com/xtrayou/cctv.purwakartakab.go.id) 
-  A project showcasing CCTV feeds for public viewing. 
-  ⭐ 1 Stars | Language: JavaScript | Forks: 0 | Issues: 0
-
 ## GitHub Stats
 📊 **Public Repositories:** 13  
 👥 **Followers:** 1  
@@ -44,3 +26,4 @@ I'm currently using GitHub as a second account for study purposes. I focus on de
 - Started watching [monitoring-domain](https://github.com/xtrayou/monitoring-domain)  
 - Started watching [dashboard-stable](https://github.com/xtrayou/dashboard-stable)  
 - Recently pushed to [silmiyushini](https://github.com/xtrayou/silmiyushini)
+
