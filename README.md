@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Xtray.ou, a passionate developer with a keen interest in building impactful applications. Welcome to my GitHub profile!
+I'm Silmi Yushini, a passionate developer with a keen interest in building impactful applications. Welcome to my GitHub profile!
 
 ## About Me
 
