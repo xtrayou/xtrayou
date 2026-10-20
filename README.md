@@ -268,10 +268,6 @@ KEEP BUILDING_
 
 ---
 
-*You've reached the end of the README, but not the end of the journey.*
-
-</div>
-
 ---
 
 <div align="center">
