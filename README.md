@@ -272,18 +272,11 @@ KEEP BUILDING_
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=xtrayou&style=for-the-badge&color=7C3AED&label=TOTAL+PROFILE+VIEWS" alt="Profile visitor count"/>
+<img src="https://komarev.com/ghpvc/?username=xtrayou&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile visitor counter"/>
 
 <br/><br/>
 
-<a href="https://github.com/xtrayou?tab=followers">
-  <img src="https://img.shields.io/github/followers/xtrayou?label=DEVELOPERS%20FOLLOWING&style=flat-square&color=0891B2&logo=github" alt="Follower count"/>
-</a>
-<a href="https://github.com/xtrayou?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-7C3AED?style=flat-square&logo=github" alt="Explore repositories"/>
-</a>
-
-<br/><br/>
+<img src="https://img.shields.io/github/followers/xtrayou?style=for-the-badge&label=FOLLOWERS&color=0891B2" alt="GitHub followers"/>
 
 *You've reached the end of the README, but not the end of the journey.*
 
