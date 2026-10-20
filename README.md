@@ -11,9 +11,9 @@ I'm currently using GitHub as a second account for study purposes. I focus on de
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,bootstrap,laravel,vue,docker,github,git,mysql,gitlab&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-📊 **Public Repositories:** 13  
-👥 **Followers:** 1  
-👣 **Following:** 4  
+📊 **Public Repositories:** 26  
+👥 **Followers:** 4  
+👣 **Following:** 6  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtrayou&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtrayou&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
